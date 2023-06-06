@@ -59,3 +59,4 @@ templates/cluster-template*.yaml
 
 # Hack files
 /hack/config/manager_image_patch.yaml
+
